@@ -13,9 +13,14 @@
         "$path": "src/Client"
       },
       "$properties": {
-        "CameraMaxZoomDistance": 128,
-        "CharacterBreakJointsOnDeath": false,
-        "CharacterUseJumpPower": false
+        "EnableMouseLockOption": false,
+        "CharacterJumpHeight": 3.0,
+        "NameDisplayDistance": 0,
+        "CharacterWalkSpeed": 100,
+        "CameraMaxZoomDistance": 1000,
+        "CharacterUseJumpPower": false,
+        "CharacterJumpPower": 32.368,
+        "UserEmotesEnabled": false
       }
     }
   }

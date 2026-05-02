@@ -1,0 +1,9 @@
+{
+  "className": "ReplicatedStorage",
+  "properties": {
+    "Attributes": {
+      "Emitter2D_Version": 1.26
+    }
+  },
+  "keepUnknowns": true
+}

@@ -1,0 +1,13 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "CFrame": [1332.0699, 11.4537, 261.3774, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "DoubleSided": true,
+    "InitialSize": [3.4784, 7.6591, 3.4784],
+    "MeshContent": "rbxassetid://124191260390119",
+    "PivotOffset": [-0.147, -1.5259, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Size": [1.3203, 2.9073, 1.3203],
+    "TextureContent": "rbxassetid://115087594663217"
+  },
+  "originalName": "Leitkegel "
+}
